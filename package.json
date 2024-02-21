@@ -7,8 +7,10 @@
   "main": "./dist/ion-icon-library.umd.cjs",
   "module": "./dist/ion-icon-library.js",
   "scripts": {
-    "build": "vite build"
+    "build": "vite build",
+    "watch": "vite build --watch"
   },
+  "devDependencies": {"vite": "^5.1.0"},
   "exports": {
     ".": {
       "import": "./dist/ion-icon-library.js",
