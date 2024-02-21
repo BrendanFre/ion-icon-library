@@ -1,0 +1,18 @@
+{
+  "name": "ion-icon-library",
+  "version": "1.0.0",
+  "description": "A GOOD DESCRIPTION",
+  "type": "module",
+  "files": ["dist"],
+  "main": "./dist/ion-icon-library.umd.cjs",
+  "module": "./dist/ion-icon-library.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/ion-icon-library.js",
+      "require": "./dist/ion-icon-library.umd.cjs"
+    }
+  }
+}
