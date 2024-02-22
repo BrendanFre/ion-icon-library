@@ -1,6 +1,6 @@
 {
   "name": "ion-icon-library",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A lightweight icon library",
   "type": "module",
   "files": [
