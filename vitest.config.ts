@@ -6,9 +6,12 @@ export default defineConfig({
       provider: 'istanbul' // or 'v8'
     },
     environment: 'jsdom',
+    reporters: [
+      ['lcov', { 'projectRoot': './src' }],]
     // browser: {
     //   enabled: true,
     //   name: 'chrome', // browser name is required
     // },
   },
-})
+
+  })

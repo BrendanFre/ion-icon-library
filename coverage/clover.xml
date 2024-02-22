@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1708629598599" clover="3.2.0">
-  <project timestamp="1708629598599" name="All files">
+<coverage generated="1708630791792" clover="3.2.0">
+  <project timestamp="1708630791793" name="All files">
     <metrics statements="21" coveredstatements="21" conditionals="8" coveredconditionals="8" methods="4" coveredmethods="4" elements="33" coveredelements="33" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
     <file name="main.js" path="/home/brendan/Documents/01Projects/ion-icon-library/lib/main.js">
       <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
