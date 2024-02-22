@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="css.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.89285651"
+     inkscape:cx="266.56019"
+     inkscape:cy="269.92019"
+     inkscape:window-width="1366"
+     inkscape:window-height="696"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="113.12083"
+       y="321.68465"
+       width="371.21751"
+       height="210.10662"
+       id="rect9995" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <rect
+       style="fill:#ff6600;stroke-width:1.03327;fill-opacity:1"
+       id="rect49-3"
+       width="519.82056"
+       height="530.19696"
+       x="32.385273"
+       y="-1.9844596" />
+    <text
+       xml:space="preserve"
+       id="text9993"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect9995);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
+         x="113.12109"
+         y="357.07617"
+         id="tspan19728">HTML</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffc022;stroke-width:1.03327"
+       id="rect49"
+       width="519.82056"
+       height="530.19696"
+       x="-19.097584"
+       y="12.138966" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:163.713px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.09283"
+       x="185.19713"
+       y="522.0946"
+       id="text16294"><tspan
+         sodipodi:role="line"
+         id="tspan16292"
+         x="185.19713"
+         y="522.0946"
+         style="stroke-width:4.09283">CSS</tspan></text>
+  </g>
+</svg>
