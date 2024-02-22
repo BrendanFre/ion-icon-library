@@ -5,7 +5,7 @@ export default defineConfig({
     coverage: {
       provider: 'istanbul',
       reporter: [
-        './tests/lcov.cjs'
+        'lcovonly'
       ],
     },
     environment: 'jsdom',    // browser: {
