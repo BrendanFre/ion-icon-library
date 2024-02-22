@@ -5,10 +5,7 @@ export default defineConfig({
     coverage: {
       provider: 'istanbul' // or 'v8'
     },
-    environment: 'jsdom',
-    reporters: [
-      ['lcov', { 'projectRoot': './src' }],]
-    // browser: {
+    environment: 'jsdom',    // browser: {
     //   enabled: true,
     //   name: 'chrome', // browser name is required
     // },
