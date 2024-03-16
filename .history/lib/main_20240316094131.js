@@ -1,4 +1,4 @@
-import svgJs from './icons/javascript.svg';
+import svgJs from './javascript.svg';
 import sizing from './sizing';
 
 export default () => {
